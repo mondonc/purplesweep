@@ -15,7 +15,7 @@
 
 * moteur 150 rpm : https://www.amazon.fr/gp/product/B01BBSXDJ4 : 10,99€
 
-* 2 x moteur 100 rpm : https://www.amazon.fr/gp/product/B074QQB95G : 2 x 12,36€
+* 2 x moteur 100 rpm : https://www.amazon.fr/gp/product/B074QQB95G : 2 x 12,36€ = 24,72€
 
 * LiPO batterie + chargeur : https://fr.aliexpress.com/item/7-4V-2500mAh-25C-Drone-Rechargeable-Li-polymer-Battery-903475-For-RC-SYMA-X8C-X8W-X8G/32802363027.html : 14,71€
 
